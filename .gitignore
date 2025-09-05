@@ -2,12 +2,6 @@ venv*/
 .env
 .env.*
 *.json
-storage/*
-!storage/chunks.jsonl
-!storage/index.faiss
-!storage/embeddings.npy
-!storage/bm25.pkl
-!storage/.gitkeep
 *.pync*
 __pycache__/
 *.pyc
