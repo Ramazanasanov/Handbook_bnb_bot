@@ -1,0 +1,11 @@
+venv/
+.env
+credentials.json
+storage/
+__pycache__/
+*.npy
+*.faiss
+*.pkl
+*.jsonl
+*.log
+.DS_Store
